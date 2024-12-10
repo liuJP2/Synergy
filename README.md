@@ -1,3 +1,3 @@
 # Synergy
 
-# Coming soon
+Coming soon..
